@@ -1,0 +1,26 @@
+id: AFFF00FB4
+title: 'RK: Bodhisatvapiṭaka'
+type: translation
+pechas:
+- I69BA855F
+- I4FBBB69F
+- I09F49172
+- I1EDE4407
+- IB4F7ABBF
+- I7F908834
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 14:58:43.114685
+  last_modified_at: 2023-02-08 14:58:43.114700
+alignment_to_base:
+  I69BA855F/1D00: F020
+  I4FBBB69F/F6B7: F020
+  I09F49172/D343: F020
+  I1EDE4407/A26F: F020
+  IB4F7ABBF/4455: F020
+  I7F908834/29A4: F020
